@@ -2,8 +2,6 @@
 
 This repo documents the public compatibility keys that other resources can request from `pac-core`.
 
-> Keep actual server-specific values private. Do not publish your real framework, inventory, database, permission, admin, webhook, or internal resource config unless you intentionally want it public.
-
 ## Supported compatibility keys
 
 | Key | Expected value | Description |
